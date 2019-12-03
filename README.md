@@ -1,2 +1,2 @@
-# ExternalCamera-Unity
-ExternalCamera-Unity
+# Vuforia Engine - ExternalCamera - Unity Sample
+Demo for Unity Bilibili
