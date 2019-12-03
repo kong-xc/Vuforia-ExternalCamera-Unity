@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.5.8">
+<ModelTarget name="KTM_Low" targetId="89dc578915474837ae1145b6d5149aa6" version="11.1" toolVersion="8.5.8" bbox="-0.410291 -0.468700 -0.890160 0.410239 0.769231 1.261312" previewImage="89dc578915474837ae1145b6d5149aa6_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="KTM_Lows_assembly" assemblyId="61860c1f9ca44acaaddc815055279c70">
+<Part name="KTM_Low" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.122693 0.167095 2.0255" rotation="AD: 0.9961582500778713 -0.12329429156790178 1.020040635437411 189.619" image="KTM_Low_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="KTM_Low" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="KTM_Lows_assembly" assemblyId="61860c1f9ca44acaaddc815055279c70">
+<Part name="KTM_Low" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.122693 0.167095 2.0255" rotation="AD: 0.9961582500778713 -0.12329429156790178 1.020040635437411 189.619" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
